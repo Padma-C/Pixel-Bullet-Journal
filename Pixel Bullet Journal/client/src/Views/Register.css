@@ -1,0 +1,14 @@
+form {
+  display: inline-grid;
+  align-items: center;
+  border: none;
+}
+
+footer {
+  margin-top: 10em;
+  display: block;
+  max-height: 60px;
+  width: 100vw;
+  padding: 16px;
+  margin-bottom: 0;
+}
